@@ -1,8 +1,10 @@
 <<<<<<< HEAD
 hello Im local brnach
-=======
-hello Im brnach
->>>>>>> 2de66e9 (branch test)
 Works
 aaa
 ive changed in github
+=======
+hello Im local branch
+This is new commit
+Hello
+>>>>>>> 3d85f3c (last commit local)
