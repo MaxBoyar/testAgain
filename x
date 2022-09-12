@@ -8,3 +8,4 @@ helloXXX
 
 test
 again
+rebase test
